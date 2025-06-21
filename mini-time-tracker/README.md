@@ -17,7 +17,6 @@ A simple React + TypeScript web app that allows users to track how they spend th
 
 - React
 - TypeScript
-- Tailwind CSS (for basic styling)
 
 ---
 
