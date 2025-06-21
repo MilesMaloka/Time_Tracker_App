@@ -1,5 +1,7 @@
 # ⏱ Mini Time Tracker
 Live Demo: https://trackertimebymilesmaloka.netlify.app/
+
+
 A simple React + TypeScript web app that allows users to track how they spend their time by logging tasks and the number of hours worked.
 
 ## 🚀 Features
